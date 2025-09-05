@@ -2,7 +2,7 @@
 # 📊 Supplier Contract & Spend Dashboard
 
 A Power BI dashboard designed to provide actionable insights into supplier performance, contract values, and monthly spend trends. Built to support procurement teams, finance analysts, and decision-makers in identifying high-value suppliers, monitoring compliance, and optimizing spend.
-
+<img src="image.png">
 ## 🔍 Overview
 
 This dashboard visualizes key metrics across supplier contracts, including:
